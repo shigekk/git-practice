@@ -2,6 +2,6 @@
 using namespace std;
  
 int main() {
-    cout << "hello woeld" << endl;
+    cout << "hello maximum" << endl;
     return 0;
 }
