@@ -1,7 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+ int add(int a, int b) {
+    return a + b;
+}
+
 int main() {
-    cout << "hello maximum" << endl;
+    cout << add(3, -2) << endl;
     return 0;
 }
